@@ -3,13 +3,13 @@
 
 <p style="padding-top: 5px">
 <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" height="25px">
- <a href="mailto:gabrielhe@ges.inatel.br">
-  <img src="https://img.shields.io/badge/Email-gabrielhe@ges.inatel.br-0c2d6b">
+ <a href="mailto:kenzoumezawa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kenzoumezawa@gmail.com-0c2d6b">
  </a>
  <a href="https://www.linkedin.com/in/gabrielhsdev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-gabrielhsdev-8e1519"/>
  </a>
- <img align="right" src="https://visitcount.itsvg.in/api?id=RedfoxGHS&icon=7&color=12">
+ <img align="right" src="https://visitcount.itsvg.in/api?id=KenzoUMZ&icon=7&color=12">
  <img align="right" src="https://media.tenor.com/QorAqICAEoEAAAAj/eye-eyes.gif" height="25px">
 </p>
 
@@ -56,15 +56,15 @@
 <br>
 
 <p align="center">
- <img height="165" style="max-width: 420px" src="https://github-readme-stats.vercel.app/api?username=RedfoxGHS&show_icons=true&theme=radical&icon_color=79b8ff&bg_color=000000">ㅤㅤ
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redfoxghs&layout=compact&theme=radical&bg_color=000000&langs_count=10">
+ <img height="165" style="max-width: 420px" src="https://github-readme-stats.vercel.app/api?username=kenzoumzGHS&show_icons=true&theme=radical&icon_color=79b8ff&bg_color=000000">ㅤㅤ
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzoumz&layout=compact&theme=radical&bg_color=000000&langs_count=10">
 </p>
 
 <p align = "center">
- <img  src="https://streak-stats.demolab.com/?user=RedfoxGHS&theme=radical&background=000000&currStreakLabel=79b8ff&currStreakNum=a8fdf6" />
+ <img  src="https://streak-stats.demolab.com/?user=KenzoUMZ&theme=radical&background=000000&currStreakLabel=79b8ff&currStreakNum=a8fdf6" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=redfoxghs&theme=redical&bg_color=000000&point=79b8ff&title_color=fd428d">
+ <img src="https://activity-graph.herokuapp.com/graph?username=kenzoumz&theme=redical&bg_color=000000&point=79b8ff&title_color=fd428d">
 </p> 
 <hr>
