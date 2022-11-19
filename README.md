@@ -56,7 +56,7 @@
 <br>
 
 <p align="center">
- <img height="165" style="max-width: 420px" src="https://github-readme-stats.vercel.app/api?username=kenzoumzGHS&show_icons=true&theme=radical&icon_color=79b8ff&bg_color=000000">ㅤㅤ
+ <img height="165" style="max-width: 420px" src="https://github-readme-stats.vercel.app/api?username=kenzoumz&show_icons=true&theme=radical&icon_color=79b8ff&bg_color=000000">ㅤㅤ
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzoumz&layout=compact&theme=radical&bg_color=000000&langs_count=10">
 </p>
 
