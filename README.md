@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/48630726/202218586-38d87b80-272d-4388-8172-46d040a44ff8.png">
+![ilya-pavlov-OqtafYT5kTw-unsplash](https://user-images.githubusercontent.com/49520709/203044116-373ff247-0311-4926-b272-69ca755a6831.jpg)
+
 
 
 <p style="padding-top: 5px">
@@ -6,8 +7,8 @@
  <a href="mailto:kenzoumezawa@gmail.com">
   <img src="https://img.shields.io/badge/Email-kenzoumezawa@gmail.com-0c2d6b">
  </a>
- <a href="https://www.linkedin.com/in/gabrielhsdev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-gabrielhsdev-8e1519"/>
+ <a href="https://www.linkedin.com/in/samuel-kenzo-umezawa-1396b419b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-samuelKenzo-8e1519"/>
  </a>
  <img align="right" src="https://visitcount.itsvg.in/api?id=KenzoUMZ&icon=7&color=12">
  <img align="right" src="https://media.tenor.com/QorAqICAEoEAAAAj/eye-eyes.gif" height="25px">
@@ -15,14 +16,12 @@
 
 ```Python
  class about_me:
-   name: "Gabriel Henrique da Silva"
-   nickname: "Redfox"
-   summary: "🎓 I'm a Software Engineering student at INATEL."
-   age: 23
+   name: "Samuel Kenzo Umezawa"
+   nickname: "KenzoUMZ"
+   summary: "🎓 I'm a Software Developer Intern at Scoder-Tech."
+   age: 21
    country: "Brazil"
-   hobbies: ["🎮 Play games", "🎵 Listen to music", "🍔 eat hamburguer"]
-   music: "Rock"
-   prefered_language: "☕ Java"
+   prefered_language: "🎯 Dart"
 ```
 
 <h2 align="center">Technology Stack <img src="https://user-images.githubusercontent.com/48630726/202259662-066ef2bf-734b-414d-9747-0dba25024276.gif" width="50"></h2>
