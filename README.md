@@ -28,6 +28,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Flutter-E34A86?style=flat&logo=flutter"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+width="90"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb"/>
