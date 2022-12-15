@@ -60,7 +60,4 @@ width="90"/>
  <img  src="https://streak-stats.demolab.com/?user=KenzoUMZ&theme=radical&background=000000&currStreakLabel=79b8ff&currStreakNum=a8fdf6" />
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=kenzoumz&theme=redical&bg_color=000000&point=79b8ff&title_color=fd428d">
-</p> 
-<hr>
+
