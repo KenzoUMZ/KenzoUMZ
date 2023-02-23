@@ -19,7 +19,7 @@
    name: "Samuel Kenzo Umezawa"
    nickname: "KenzoUMZ"
    summary: "🎓 I'm a Software Developer Intern at Scoder-Tech."
-   age: 21
+   age: 22
    country: "Brazil"
    prefered_language: "🎯 Dart"
 ```
